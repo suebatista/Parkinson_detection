@@ -10,4 +10,4 @@ Sources:
 Little MA, McSharry PE, Roberts SJ, Costello DAE, Moroz IM. 
 BioMedical Engineering OnLine 2007, 6:23 (26 June 2007)
 
-2. www.datafair.com
+2. https://data-flair.training/
